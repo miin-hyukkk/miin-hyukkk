@@ -17,7 +17,7 @@
 
 2023.03~2023.06
 
-[공유가계부 ‘우리가’](https://www.ouruliga.com)
+[공유가계부 ‘우리가’](https://github.com/Uliga/Uliga_Frontend)
 
 ### ~Ing
 [쇼핑몰 ‘레코디 슬로우’](https://github.com/rastle-dev/rastle-frontend)
