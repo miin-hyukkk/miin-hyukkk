@@ -11,13 +11,14 @@
 
 ### Done
 
-2022.12~2023.02 / 2023.07
+2024.08~2024.07
 
-[물물교환 플랫폼 ‘코끼리’](https://github.com/F3F-T/COKIRI)
+[쇼핑몰 ‘레코디 슬로우’](https://github.com/rastle-dev/rastle-frontend)
 
 2023.03~2023.06
 
 [공유가계부 ‘우리가’](https://github.com/Uliga/Uliga_Frontend)
 
-### ~Ing
-[쇼핑몰 ‘레코디 슬로우’](https://github.com/rastle-dev/rastle-frontend)
+2022.12~2023.02 / 2023.07
+
+[물물교환 플랫폼 ‘코끼리’](https://github.com/F3F-T/COKIRI)
