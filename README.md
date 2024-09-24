@@ -11,7 +11,7 @@
 
 ### Done
 
-2024.08~2024.07
+2023.08~2024.07
 
 [쇼핑몰 ‘레코디 슬로우’](https://github.com/rastle-dev/rastle-frontend)
 
