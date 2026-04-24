@@ -18,7 +18,3 @@
 2023.03~2023.06
 
 [공유가계부 ‘우리가’](https://github.com/Uliga/Uliga_Frontend)
-
-2022.12~2023.02 / 2023.07
-
-[물물교환 플랫폼 ‘코끼리’](https://github.com/F3F-T/COKIRI)
